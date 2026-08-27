@@ -1,2 +1,0 @@
-# SummerPracticum
-DigitalLibrary (SimplifiedAuth, CLI)
